@@ -6,7 +6,7 @@ public class Student {
     private double grade;
 
     public Student(String name, int age, String gender, long prn, double grade) {
-        setName(name); //Making Consturctor
+        setName(name); //Making Constructor
         setPrn(prn);
         setAge(age);
         setGender(gender);
