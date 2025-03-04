@@ -1,3 +1,6 @@
+//Name : Tom Thomas
+//PRN : 23070126136
+//Batch : AIML B3
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
